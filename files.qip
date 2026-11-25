@@ -1,6 +1,5 @@
 set_global_assignment -name QIP_FILE rtl/T80/T80.qip
 set_global_assignment -name VERILOG_FILE rtl/psg.v
-set_global_assignment -name QIP_FILE sys/sys.qip
 set_global_assignment -name SYSTEMVERILOG_FILE rtl/key_joystick.sv
 set_global_assignment -name SYSTEMVERILOG_FILE rtl/mouse.sv
 set_global_assignment -name SYSTEMVERILOG_FILE rtl/amx_mouse.sv

@@ -5,7 +5,7 @@
 //============================================================================
 module emu
 (
-	`include "sys/emu_ports.vh"
+	`include "template/sys/emu_ports.vh"
 );
 
 assign VGA_F1=0;
